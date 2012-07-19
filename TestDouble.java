@@ -22,6 +22,7 @@ public class TestDouble {
 
 		// ブラウザから編集のテストします。
 
+		// テスト2
 
 		BigDecimal bd1 = new BigDecimal(12345667890.12345667890);
 		BigDecimal bd2 = new BigDecimal(12345667890.12345667890);
