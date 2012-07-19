@@ -20,6 +20,7 @@ public class TestDouble {
 		String str = String.format("%f",answerD);
 		System.out.println("D：" + str);
 
+		// ブラウザから編集のテストします。
 
 
 		BigDecimal bd1 = new BigDecimal(12345667890.12345667890);
